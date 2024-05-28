@@ -33,5 +33,7 @@ These analyses and visualizations help in making informed decisions, identifying
 - **Top Customers:** Lists customers with highest sales, providing insights into customer loyalty and preferences.
 
 This project demonstrates effective use of Excel for data analysis and visualization, providing actionable insights for business growth and strategy.
+
+
 ![image](https://github.com/ShilpaAdiga/CoffeeOrdersProject/assets/57552278/b6fd551b-9892-4350-ab13-5ae547e14638)
 
